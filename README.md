@@ -1,6 +1,6 @@
 # ✉ BudgetBuddy: Your Ultimate Finance Tracker 💸
 
-Welcome to BudgetBuddy, a sleek and intuitive finance tracking application built to empower users to take control of their budgets, expenses, and savings. With an engaging and user-friendly interface, BudgetBuddy makes personal finance management a breeze. 📊
+Welcome to **BudgetBuddy**, a sleek and intuitive finance tracking application built to empower users to take control of their budgets, expenses, and savings. With an engaging and user-friendly interface, BudgetBuddy makes personal finance management a breeze. 📊
 
 
 ## 🌟 Features 
@@ -22,6 +22,13 @@ This project showcases a rich tech stack, combining modern frameworks and tools 
 ### Backend
 - **Drizzle ORM:** Simplified database interactions with type safety.
 - **Neon:** A powerful, cloud-based PostgreSQL database solution.
+
+### Authentication
+- **Clerk:** Provides secure user authentication and management.
+
+### Deployment
+- **Vercel:** Deployed with ease, ensuring a fast and reliable experience for users.
+  Visit the deployed website: https://budget-buddy-psi-azure.vercel.app/
 
 
 ## 🚀 Getting Started
@@ -64,3 +71,6 @@ npm run dev
 ```bash
 http://localhost:3000
 ```
+
+
+Thank you for exploring **BudgetBuddy**! 🌟 Happy tracking! 💵
