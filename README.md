@@ -6,7 +6,7 @@ Welcome to **BudgetBuddy**, a sleek and intuitive finance tracking application b
 ## 🌟 Features 
 - **Budget Tracking:** Add, edit, and manage multiple budgets with ease.
 - **Expense Tracking:** Keep an eye on your total expenses and spending trends.
-- **Data Visualization:** Interactive bar charts powered by Recharts.
+- **Data Visualization:** Gain insights into your spending with interactive and visually appealing charts.
 - **Responsive Design:** Optimized for all screen sizes—desktop, tablet, and mobile.
 
 
@@ -17,7 +17,7 @@ This project showcases a rich tech stack, combining modern frameworks and tools 
 - **Next.js:** For server-side rendering and seamless routing.
 - **React:** A component-based library for building dynamic UIs.
 - **Tailwind CSS:** For crafting responsive, and consistent designs effortlessly.
-- **Recharts:** For rendering visually appealing bar charts that provide insightful data visualizations.
+- **Recharts:** For rendering visually appealing charts that provide insightful data visualizations.
 
 ### Backend
 - **Drizzle ORM:** Simplified database interactions with type safety.
@@ -71,6 +71,10 @@ npm run dev
 ```bash
 http://localhost:3000
 ```
+
+
+## 🙏 Acknowledgments
+This project was inspired by the tutorials from @tubeguruji.
 
 
 Thank you for exploring **BudgetBuddy**! 🌟 Happy tracking! 💵
