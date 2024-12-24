@@ -76,5 +76,5 @@ http://localhost:3000
 ## 🙏 Acknowledgments
 This project was inspired by the tutorials from @tubeguruji.
 
-
+## 
 Thank you for exploring **BudgetBuddy**! 🌟 Happy tracking! 💵
